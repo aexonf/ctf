@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "d7a5e3260c095d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda79bbf76a90823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7118b10bbcc49c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/hackthebox/Advance Lab/Akerva/Akerva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518068cb6cba346c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c556c936f73c19a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7ac6478aa8e08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a38e7bf938f1993a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3fb1e83133569ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2aae1dcd2013644b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b72139684630216d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "360c422c2afc9b5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF/hackthebox/Advance Lab/Akerva/Akerva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd050b756e6dbe3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTF/hackthebox/Advance Lab/Akerva/Akerva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9eee92bc73b5fee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c56170a65ae5340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTF/hackthebox/Advance Lab/Akerva/Akerva.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b7118b10bbcc49c2",
+  "lastOpenFiles": [
+    "CTF/hackthebox/Advance Lab/Akerva",
+    "Learn/TryHackMe/Active Directory/Enum/Enum.md",
+    "CTF/hackthebox/Advance Lab/Akerva/Akerva.md",
+    "CTF/hackthebox/Advance Lab",
+    "Learn/TryHackMe/Active Directory/Enum",
+    "Learn/TryHackMe/Active Directory",
+    "Learn/TryHackMe",
+    "Learn",
+    "CTF",
+    "Untitled.canvas",
+    "CTF/hackthebox/linux/Inject/Inject.md",
+    "CTF/hackthebox/linux/pc/PC.md",
+    "CTF/hackthebox/windows/legacy/Legacy.md",
+    "CTF/hackthebox/linux/Inject",
+    "CTF/hackthebox/windows/legacy",
+    "hackthebox/linux/pc/Screenshot_2024-06-16_11-36-10.png",
+    "CTF/hackthebox/linux/pc/Screenshot_2024-06-17_21-30-31.png",
+    "CTF/hackthebox/linux/pc",
+    "CTF/hackthebox/linux",
+    "Welcome.md"
+  ]
+}
